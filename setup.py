@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME ="Chicken-Disease-Classification"
 AUTHOR_USER_NAME = "mouaadhalimi"
-SRC_REPO ="Chicken-Disease-Classification"
+SRC_REPO ="cnnClassifier"
 AUTHOR_EMAIL= "halimimouaad20@gmail.com"
 
 

@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: Chicken-Disease-Classification
+Version: 0.0.0
+Summary:  A small python package for CNN app
+Home-page: https://github.com/mouaadhalimi/Chicken-Disease-Classification
+Author: mouaadhalimi
+Author-email: halimimouaad20@gmail.com
+Project-URL: Bug Tracker, https://github.com/mouaadhalimi/Chicken-Disease-Classification/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Chicken-Disease-Classification
